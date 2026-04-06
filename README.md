@@ -55,3 +55,18 @@ The transition from a baseline model to a tuned system yielded a massive improve
 | **MAE (Mean Absolute Error)** | 299,060 | **111,125** |
 
 **Interpretation:** The final model explains **97.70%** of the variance in car prices. By reducing the Mean Absolute Error by over 60%, the system provides a highly reliable tool for automated predictive business decisions.
+## 🛠️ Tech Stack
+- **Languages**: Python
+- **Libraries**:
+  - Data: `pandas`, `numpy`
+  - Visualization: `matplotlib`, `seaborn`
+  - ML: `scikit-learn` (Pipeline, ColumnTransformer, FunctionTransformer, RandomForestRegressor, GridSearchCV)
+### **Learning Objectives:**
+- Master sklearn pipeline architecture (reproducibility)
+- Understand Random Forest hyperparameter impact (n_estimators, max_depth)
+- Build deployable ML systems (not just "train a model")
+- Think like an ML Engineer (systems thinking, not just algorithms)
+---
+*Developed by Luthando Kunene with the help of AI | Aspiring Professional Engineer (Industrial and Systems Engineering) & Data Practitioner (Machine Learning and Data Engineering)* </br>
+**Built as part of ALX Africa Machine Learning Course I am enrolled in - the goal is active learning and mastering of ML concepts through project based learning** </br>
+**Module:** Week 4 - Random Forest Regressor, Cross Validation & Hyperparameter Tuning  
